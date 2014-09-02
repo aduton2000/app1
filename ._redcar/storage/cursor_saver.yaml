@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2014-08-30 21:33:57.671000 Z
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2014-08-30 21:33:57.691000 Z
+files_to_retain: 0
